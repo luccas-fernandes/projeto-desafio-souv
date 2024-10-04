@@ -21,16 +21,18 @@ Para instalar a aplicação, algumas tecnologias são requeridas como:
 
 - Navegue até o diretorio da aplicação:
 
-shel
-  cd projeto-souv 
+
+```shel
+  cd projeto-souv
+```
 
 
 - Instale as dependências e inicie o servidor de desenvolvimento:
   
-shel
+```shel
   npm install
   npm run dev
-
+```
 
 Feito isso, irá subir o frontend. A aplicação ficará disponivel em  http://localhost:3000
 
