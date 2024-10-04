@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Souv - DESAFIO ESTÁGIO DEV
 
-## Getting Started
+Esta aplicação web, desenvolvida com Next.JS, TypeScript, HTML e CSS Tailwind, visa mostrar as competências exigidas pelo desafio proposto. Além disso, é importante enteder que a mesma retrata uma página web de um blog qualquer.
 
-First, run the development server:
+### Tecnologias
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- TypeScript
+- Next.JS
+- Tailwind CSS
+- HTML
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Requerimentos
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Para instalar a aplicação, algumas tecnologias são requeridas como:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Node.JS
 
-## Learn More
+## Instalação
 
-To learn more about Next.js, take a look at the following resources:
+### Para instalar e rodar a aplicação, siga esses passos:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Navegue até o diretorio da aplicação:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+shel
+  cd projeto-souv 
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Instale as dependências e inicie o servidor de desenvolvimento:
+  
+shel
+  npm install
+  npm run dev
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+Feito isso, irá subir o frontend. A aplicação ficará disponivel em  http://localhost:3000
+
+![image](https://github.com/user-attachments/assets/650acc9a-ae22-4f6f-8f9f-5eba218c25fb)
